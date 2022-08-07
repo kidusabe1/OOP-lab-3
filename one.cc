@@ -43,7 +43,7 @@ int palindrome(int a)
     }
     if(temp==pal)
     return 1;
-    else    
+    else   
     return -1;
 }
 int main()
